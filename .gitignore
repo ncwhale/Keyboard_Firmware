@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# VScode configure & CMake build folder.
+.vscode
+build
